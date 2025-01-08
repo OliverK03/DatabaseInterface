@@ -16,7 +16,3 @@ WHERE yearmodel=2020;
 SELECT *
 FROM car
 WHERE brand LIKE '%i%';
-
--- 5th task
-SELECT *
-FROM car
