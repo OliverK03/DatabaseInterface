@@ -14,7 +14,7 @@ Database Interface course exercises completed in Oulu University of Applied Scie
 
 ## Exercise 2
 
-### Kirjoita SQL, kysely, joka
+### Kirjoita SQL kysely, joka
 
 1. Näyttää kaikkien omistajien tiedot (owner-taulu)
 2. Näyttää kaikkien omistajien etunimen ja sukunimen
