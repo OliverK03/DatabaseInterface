@@ -38,7 +38,7 @@ Database Interface course exercises completed in Oulu University of Applied Scie
         idowner  firstname lastname      cars of the person
 
         1          Jim      Smith            Audi A4
-        2	   Ann	    Smith            Audi A4
+        2          Ann	    Smith            Audi A4
         3	   Bob	    Jones            Audi A6
         4	   Lisa	    Simpson	     BMW 530
         5	   Mary	    Wilson           BMW 320,Citroen C5
