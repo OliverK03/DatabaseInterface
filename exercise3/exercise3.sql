@@ -25,10 +25,10 @@ GROUP BY
 
 -- task 6
 SELECT
-	owner.idowner,
-    owner.firstname,
-    owner.lastname,
-    GROUP_CONCAT(car.brand, ' ', car.model ORDER BY car.brand, car.model) AS 'cars of the person'
+    	owner.idowner,
+	owner.firstname,
+    	owner.lastname,
+    	GROUP_CONCAT(car.brand, ' ', car.model ORDER BY car.brand, car.model) AS 'cars of the person'
 FROM
 	owner
 JOIN
