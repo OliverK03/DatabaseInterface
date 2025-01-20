@@ -35,15 +35,15 @@ Database Interface course exercises completed in Oulu University of Applied Scie
 5. Autojen lukumäärät merkeittäin
 6. Palauttaa omistajan nimet ja heidän autonsa merkin ja mallin. Tuloksen pitäisi olla seuraavanlainen:
 
-        idowner	firstname	lastname	cars of the person
+        idowner  firstname lastname      cars of the person
 
-        1	Jim	Smith	Audi A4
-        2	Ann	Smith	Audi A4
-        3	Bob	Jones	Audi A6
-        4	Lisa	Simpson	BMW 530
-        5	Mary	Wilson	BMW 320,Citroen C5
-        6	Jack	Wilson	BMW 320,Citroen C5
-        7	Tom	Daniels	Volvo V70
-        8	Ally	Jones	Volvo S60
-        9	Rita	Ramon	Kia Rio,Kia Niro
-        10	Matt	Ramon	Kia Rio,Kia Niro
+        1          Jim      Smith            Audi A4
+        2	   Ann	    Smith            Audi A4
+        3	   Bob	    Jones            Audi A6
+        4	   Lisa	    Simpson	     BMW 530
+        5	   Mary	    Wilson           BMW 320,Citroen C5
+        6	   Jack	    Wilson	     BMW 320,Citroen C5
+        7	   Tom	    Daniels	     Volvo V70
+        8	   Ally	    Jones	     Volvo S60
+        9	   Rita	    Ramon	     Kia Rio,Kia Niro
+        10	   Matt	    Ramon	     Kia Rio,Kia Niro
