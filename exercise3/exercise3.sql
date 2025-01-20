@@ -17,7 +17,7 @@ FROM car;
 -- task 5
 SELECT
 	brand,
-    COUNT(*) as car_count
+    	COUNT(*) as car_count
 FROM
 	car
 GROUP BY
