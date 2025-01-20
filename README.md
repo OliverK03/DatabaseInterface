@@ -61,4 +61,4 @@ Database Interface course exercises completed in Oulu University of Applied Scie
         
         CALL min_year (2016)
 
-  kysely palauttaa vuoden 2016 jälkeen tehdyt autot.
+  kysely palauttaa vuoden 2016 jälkeen tehdyt autot
