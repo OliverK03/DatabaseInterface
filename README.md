@@ -47,3 +47,18 @@ Database Interface course exercises completed in Oulu University of Applied Scie
         8          Ally     Jones            Volvo S60
         9          Rita     Ramon            Kia Rio,Kia Niro
         10         Matt     Ramon            Kia Rio,Kia Niro
+
+## Exercise 4
+
+### Kirjoita SQL kysely, joka
+1. Muuttaa vuosimallin vuodeksi 2019, jos idcar=7
+2. Muuttaa malliksi A5, jos idcar=1
+3. Lisää auton näillä tiedoilla (VW, Golf, 2015)
+4. Poistaa edellisen auton
+5. Tekee proseduurin nimeltä min_year, joka palauttaa kaikki autot,
+   joiden vuosimalli on argumenttia annettua vuotta suurempi.
+   Joten esimerkiksi jos käyttäjä kutsuu menettelyä seuraavasti:
+        
+        CALL min_year (2016)
+
+  kysely palauttaa vuoden 2016 jälkeen tehdyt autot.
